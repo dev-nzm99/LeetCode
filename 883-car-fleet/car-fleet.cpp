@@ -21,9 +21,9 @@ public:
         for (int i = 0; i < n; i++) {
             double speed = cars[i].second;
             if (!stk.empty() && speed <= stk.top()) {
-                continue;
+                continue;   //same fleet 
             }
-            stk.push(speed);
+            stk.push(speed); //new fleet 
         }
         return stk.size();
     }
