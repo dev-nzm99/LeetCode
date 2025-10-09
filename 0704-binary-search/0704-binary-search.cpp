@@ -1,8 +1,8 @@
 class Solution {
 public:
     int search(vector<int>& a, int key) {
-        int n = a.size();
-        int st=0,end=n-1;
+         int n = a.size();
+         int st=0,end=n-1;
         while(st<=end){
             int mid = st+(end-st)/2;
             if(a[mid]==key)return mid;
