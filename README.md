@@ -25,10 +25,9 @@ It serves as a personal record of my problem-solving journey and continuous impr
 
 ## Languages
 
-- C / C++
-- Java
-- SQL
-
+- `C/C++`
+- `Java`
+- `SQL`
 ---
 
 ## Contributing
