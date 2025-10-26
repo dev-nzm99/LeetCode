@@ -6,7 +6,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-nzm99/LeetCode/main/img/IMG_20251020_112458.jpg" alt="LeetCode Progress Screenshot" width="400">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/IMG_20251020_112458.jpg" alt="LeetCode Progress Screenshot" width="400">
 </p>
 
 
