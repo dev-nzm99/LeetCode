@@ -3,7 +3,6 @@
  Created: 2025-10-27 14:22
  Complexity: Push in O(n) and Pop() in O(1)
 */
-
 class MyStack {
 private:
     queue<int> q1, q2;
