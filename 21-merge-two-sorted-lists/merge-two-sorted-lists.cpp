@@ -8,7 +8,10 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- //Author: Nazmul Islam
+ /*
+   Author: Nazmul Islam
+   Complexity: O(n+m)
+ */
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
