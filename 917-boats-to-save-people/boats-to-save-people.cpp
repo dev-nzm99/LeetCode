@@ -11,8 +11,7 @@ public:
         while (l <= r) {
             int s = people[l] + people[r];
             if (s <= limit) {
-                l++;
-                r--;
+                l++; r--;
             } else if (people[r] <= limit) {
                 r--;
             } else {
