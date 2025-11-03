@@ -26,7 +26,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 
 <p align="center">
   <a href="https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns">
-    <img src="https://img.shields.io/badge/All%20Essential%20Patterns-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/All%20Essential%20Patterns-purple?style=for-the-badge&logo=&logoColor=white&rounded=true" />
   </a>
 </p>
 
