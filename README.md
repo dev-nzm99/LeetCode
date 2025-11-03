@@ -30,7 +30,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
   </a>
 </p>
 
-> 📝 Solving LeetCode problems systematically, tracking progress, and applying algorithmic patterns for efficient learning.
+> Solving LeetCode problems systematically, tracking progress, and applying algorithmic patterns for efficient learning.
 
 ---
 
