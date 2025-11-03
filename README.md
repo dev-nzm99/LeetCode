@@ -1,4 +1,5 @@
-# LeetCode Practice Repo
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=23&pause=1000&color=00BCD4&width=500&lines=+LeetCode+Solutions+%26+Patterns;+Prepared+by+Nazmul+Islam)
+
 
 This repository showcases my **LeetCode solutions**, focusing on **data structures** and **algorithms**.  
 It serves as a personal record of my problem-solving journey and continuous improvement in coding.
@@ -23,6 +24,13 @@ It serves as a personal record of my problem-solving journey and continuous impr
   <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/IMG_20251020_112458.jpg" width="400">
 </p>
 
+<p align="center">
+  <a href="#all-essential-patterns-by-NAZMUL">
+    <img src="https://img.shields.io/badge/All%20Essential%20Patterns-blue?style=for-the-badge" />
+  </a>
+</p>
+
+> 📝 Solving LeetCode problems systematically, tracking progress, and applying algorithmic patterns for efficient learning.
 
 ---
 
