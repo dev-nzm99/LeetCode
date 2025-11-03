@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=23&pause=1000&color=00BCD4&width=500&lines=+LeetCode+Solutions+%26+Patterns;+Prepared+by+Nazmul+Islam)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=23&pause=1000&color=00BCD4&width=500&lines=+LeetCode+solutions+%26+patterns;+Prepared+by+Nazmul)
 
 
 This repository showcases my **LeetCode solutions**, focusing on **data structures** and **algorithms**.  
@@ -25,7 +25,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 </p>
 
 <p align="center">
-  <a href="#all-essential-patterns-by-NAZMUL">
+  <a href="https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns">
     <img src="https://img.shields.io/badge/All%20Essential%20Patterns-blue?style=for-the-badge" />
   </a>
 </p>
