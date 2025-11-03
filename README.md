@@ -10,7 +10,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
   <a href="https://github.com/dev-nzm99">
     <img src="https://img.shields.io/badge/Creator-Nazmul%20Islam-blue?style=for-the-badge" />
   </a>
-  <a href="">
+  <a>
     <img src="https://img.shields.io/badge/Language-C++-brightgreen?style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/u/nazmulislam92/">
