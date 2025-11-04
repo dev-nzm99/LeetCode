@@ -1,7 +1,7 @@
 /*
   Author:Nazmul Islam
   Complexity: O(n) time, O(1) space
-  Using Two Pointers: In-place Array Modification patterns
+  Using Two Pointers: In-place Array Modification pattern
 */
 class Solution {
 public:
