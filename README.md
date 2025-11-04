@@ -20,12 +20,16 @@ It serves as a personal record of my problem-solving journey and continuous impr
 
 ---
 
+
 <p align="center">
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/1748435431367.jpg" width="250" />
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/1748264995559.jpg" width="250" />
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/1745660121409.jpg" width="250" />
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/1748264995559.jpg" width="400">
 </p>
 
+<p align="center">
+  <a href="https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns">
+    <img src="https://img.shields.io/badge/All%20Essential%20Patterns-purple?style=for-the-badge&logo=&logoColor=white&rounded=true" />
+  </a>
+</p>
 
 > Solving LeetCode problems systematically, tracking progress, and applying algorithmic patterns for efficient learning.
 
