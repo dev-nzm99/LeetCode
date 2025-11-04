@@ -1,8 +1,9 @@
 /*
   Author:Nazmul Islam
   Complexity: O(n) time, O(1) space
-  Using Two Pointers: In-place Array Modification pattern
+  Using Two Pointers: In-place Array Modification patterns
 */
+/*
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
@@ -13,5 +14,18 @@ public:
             }
         }
         return write;
+    }
+};
+*/
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int write = 0;
+        for (int read = 1; read < nums.size(); ++read) {
+            if (nums[write] != nums[read]) {
+                nums[++write] = nums[read];
+            }
+        }
+        return ++write;
     }
 };
