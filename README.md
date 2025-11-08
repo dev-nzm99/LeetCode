@@ -22,7 +22,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 
 
 <p align="center">
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Leetcode-patterns.jpg" width="400">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Leetcode-patterns.jpg" width="500">
 </p>
 
 <p align="center">
