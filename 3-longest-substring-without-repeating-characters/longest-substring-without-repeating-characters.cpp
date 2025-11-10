@@ -2,9 +2,8 @@
  Author:Nazmul Islam
  Created: 2025-11-10 23:52
  Using sliding window pattern (variable Size)
- Complexity:
+ Complexity: O(n) time & O(n) space
 */
-
 class Solution {
 public:
     int lengthOfLongestSubstring(string str) {
