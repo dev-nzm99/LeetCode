@@ -13,7 +13,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
   <a>
     <img src="https://img.shields.io/badge/Language-C++-brightgreen?style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/u/nazmulislam92/">
+  <a href="https://leetcode.com/u/nazmulislam99/">
     <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
