@@ -2,7 +2,7 @@
  Author:Nazmul Islam
  Created: 2025-11-12 23:22
  Using Sliding Window Pattern (Variable Size)
- Complexity: O(n) time, O(n) space
+ Complexity: O(n) time & O(n) space
 */
 class Solution {
 public:
