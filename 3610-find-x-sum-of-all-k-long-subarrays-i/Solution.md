@@ -1,0 +1,1 @@
+### [Sliding Window + Frequency Map + Top-X Weighted Sum (🔥 100% Beats Version)](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/solutions/7354533/sliding-window-frequency-map-top-x-weigh-0d3l)
