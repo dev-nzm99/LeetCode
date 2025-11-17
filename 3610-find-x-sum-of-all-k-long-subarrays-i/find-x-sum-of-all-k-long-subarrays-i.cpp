@@ -2,7 +2,7 @@
   Author:Nazmul Islam
   Created: 2025-11-17 13:40
   Using sliding window pattern
-  Complexity:
+  Complexity: O(N∗Klogk) time & O(k) space
 */
 class Solution {
 public:
