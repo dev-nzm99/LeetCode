@@ -19,3 +19,24 @@ public:
         return res;
     }
 };
+/*
+//Complexity: O(n) time & O(1) space 
+
+class Solution {
+public:
+    int waysToSplitArray(vector<int>& nums) {
+        int n = nums.size(), res = 0;
+        long long totalSum = 0;
+        for (const auto& x : nums)
+            totalSum += x;
+
+        long long currSum = 0;
+        for (int i = 0; i < n - 1; ++i) {
+            currSum += nums[i];
+            if (currSum >= (totalSum - currSum)) // Is leftSum >= rightSum ?
+                res++;
+        }
+        return res;
+    }
+};
+*/
