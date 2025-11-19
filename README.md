@@ -1,5 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=23&pause=1000&color=1E90FF&width=500&lines=+LeetCode+solutions+%26+patterns;+Prepared+by+Nazmul)
 
+### Repo Stats
+
+Total folders (this repo): <!-- FOLDER_COUNT -->0<!-- FOLDER_COUNT_END -->
+
 
 This repository showcases my **LeetCode solutions**, focusing on **data structures** and **algorithms**.  
 It serves as a personal record of my problem-solving journey and continuous improvement in coding.
