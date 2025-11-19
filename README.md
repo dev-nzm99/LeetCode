@@ -20,7 +20,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
   </a>
   <a>
     <!-- PROBLEM_BADGE -->
-  <img src="https://img.shields.io/badge/Total%20Problems-71-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Problems-70-8A2BE2?style=for-the-badge" />
   <!-- /PROBLEM_BADGE -->
   </a>
   <a>
