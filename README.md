@@ -1,15 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=23&pause=1000&color=1E90FF&width=500&lines=+LeetCode+solutions+%26+patterns;+Prepared+by+Nazmul)
 
-### Repo Stats
 
-Total folders (this repo): 67
-
-### Repo Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Solutions-67-1E90FF?style=for-the-badge" />
-  
-</p>
 
 
 This repository showcases my **LeetCode solutions**, focusing on **data structures** and **algorithms**.  
@@ -22,7 +13,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
     <img src="https://img.shields.io/badge/Creator-Nazmul%20Islam-blue?style=for-the-badge" />
   </a>
   <a>
-      <img src="https://img.shields.io/badge/Total%20Folders-67-1E90FF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Total%20Solutions Count-67-1E90FF?style=for-the-badge" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Language-C++-brightgreen?style=for-the-badge" />
