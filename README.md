@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=23&pause=1000&color=1E90FF&width=500&lines=+LeetCode+solutions+%26+patterns;+Prepared+by+Nazmul)
 
-Total folders (this repo): FOLDER_COUNT_PLACEHOLDER
+Total folders (this repo): 68
 
 
 
