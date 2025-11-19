@@ -5,7 +5,7 @@ Total folders (this repo): 68
 ### Repo Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/y-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Problems-0-8A2BE2?style=for-the-badge" />
 </p>
 
 
