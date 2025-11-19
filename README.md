@@ -2,7 +2,8 @@
 
 ### Repo Stats
 
-Total folders (this repo): 8<!-- FOLDER_COUNT_END -->
+Total folders (this repo): FOLDER_COUNT_PLACEHOLDER
+
 
 
 This repository showcases my **LeetCode solutions**, focusing on **data structures** and **algorithms**.  
