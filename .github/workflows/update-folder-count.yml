@@ -1,0 +1,35 @@
+name: Update folder count in README
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-folder-count:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+      - uses: actions/checkout@v4
+
+      - name: Count folders
+        run: |
+          COUNT=$(find . -type d \
+            ! -path "./.git*" \
+            ! -path "./.github*" \
+            ! -path "./node_modules*" | wc -l)
+
+          echo "Folder count: $COUNT"
+
+          perl -0pi -e "s/(<!-- FOLDER_COUNT -->).*(<!-- FOLDER_COUNT_END -->)/\1${COUNT}\2/s" README.md
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "Update folder count"
+            git push
+          fi
