@@ -4,6 +4,12 @@
 
 Total folders (this repo): 67
 
+### Repo Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Solutions-67-1E90FF?style=for-the-badge" />
+  
+</p>
 
 
 This repository showcases my **LeetCode solutions**, focusing on **data structures** and **algorithms**.  
@@ -14,6 +20,9 @@ It serves as a personal record of my problem-solving journey and continuous impr
 <p align="center">
   <a href="https://github.com/dev-nzm99">
     <img src="https://img.shields.io/badge/Creator-Nazmul%20Islam-blue?style=for-the-badge" />
+  </a>
+  <a>
+      <img src="https://img.shields.io/badge/Total%20Folders-FOLDER_COUNT_PLACEHOLDER-1E90FF?style=for-the-badge" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Language-C++-brightgreen?style=for-the-badge" />
