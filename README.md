@@ -19,7 +19,9 @@ It serves as a personal record of my problem-solving journey and continuous impr
     <img src="https://img.shields.io/badge/Creator-Nazmul%20Islam-blue?style=for-the-badge" />
   </a>
   <a>
-     <img src="https://img.shields.io/badge/y-8A2BE2?style=for-the-badge" />
+    <!-- PROBLEM_BADGE -->
+  <img src="https://img.shields.io/badge/Total%20Problems-0-8A2BE2?style=for-the-badge" />
+  <!-- /PROBLEM_BADGE -->
   </a>
   <a>
     <img src="https://img.shields.io/badge/Language-C++-brightgreen?style=for-the-badge" />
