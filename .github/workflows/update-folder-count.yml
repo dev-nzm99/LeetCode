@@ -17,16 +17,16 @@ jobs:
 
       - name: Count folders and update README
         run: |
-          # সব ফোল্ডার count করা
-          COUNT=$(find . -type d \
+        
+          COUNT=$(find . -mindepth 1 -type d \
             ! -path "./.git*" \
             ! -path "./.github*" \
             ! -path "./node_modules*" | wc -l | tr -d '[:space:]')
 
           echo "Folder count: $COUNT"
 
-         
-          perl -0pi -e "s/(<!-- FOLDER_COUNT -->).*(<!-- FOLDER_COUNT_END -->)/\1${COUNT}\2/s" README.md
+          
+          sed -i "s/FOLDER_COUNT_PLACEHOLDER/${COUNT}/g" README.md
 
       - name: Commit and push if changed
         env:
