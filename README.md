@@ -2,12 +2,6 @@
 
 Total folders (this repo): 68
 
-### Repo Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/y-8A2BE2?style=for-the-badge" />
-</p>
-
 
 This repository showcases my **LeetCode solutions**, focusing on **data structures** and **algorithms**.  
 It serves as a personal record of my problem-solving journey and continuous improvement in coding.
@@ -20,7 +14,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
   </a>
   <a>
     <!-- PROBLEM_BADGE -->
-  <img src="https://img.shields.io/badge/Total%20Problems-69-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Solutions-69-8A2BE2?style=for-the-badge" />
   <!-- /PROBLEM_BADGE -->
   </a>
   <a>
