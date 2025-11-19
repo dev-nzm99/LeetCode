@@ -2,9 +2,10 @@ name: Update folder count in README
 
 on:
   push:
-    branches:
-      - main
-      - master
+    branches: [ "main" ]
+
+permissions:
+  contents: write
 
 jobs:
   update-folder-count:
@@ -12,10 +13,11 @@ jobs:
 
     steps:
       - name: Checkout repository
-      - uses: actions/checkout@v4
+        uses: actions/checkout@v4
 
-      - name: Count folders
+      - name: Count folders and update README
         run: |
+         
           COUNT=$(find . -type d \
             ! -path "./.git*" \
             ! -path "./.github*" \
@@ -23,13 +25,18 @@ jobs:
 
           echo "Folder count: $COUNT"
 
+  
           perl -0pi -e "s/(<!-- FOLDER_COUNT -->).*(<!-- FOLDER_COUNT_END -->)/\1${COUNT}\2/s" README.md
 
       - name: Commit and push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git commit -am "Update folder count"
+            git commit -am "chore: update folder count"
             git push
+          else
+            echo "No changes to commit"
           fi
