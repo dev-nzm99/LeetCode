@@ -2,7 +2,7 @@
 
 ### Repo Stats
 
-Total folders (this repo): FOLDER_COUNT_PLACEHOLDER
+Total folders (this repo): 67
 
 
 
