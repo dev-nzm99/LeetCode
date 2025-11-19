@@ -10,7 +10,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
   <a href="https://github.com/dev-nzm99">
     <img src="https://img.shields.io/badge/Creator-Nazmul%20Islam-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/dev-nzm99/leetlab?tab=readme-ov-file#readme">
+  <a>
     <!-- PROBLEM_BADGE -->
   <img src="https://img.shields.io/badge/Total%20Solutions-71-8A2BE2?style=for-the-badge" />
   <!-- /PROBLEM_BADGE -->
