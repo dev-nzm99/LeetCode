@@ -23,7 +23,7 @@ jobs:
 
           echo "Problem file count: $COUNT"
 
-          BADGE="<img src=\"https://img.shields.io/badge/Total%20Problems-${COUNT}-8A2BE2?style=for-the-badge\" />"
+          BADGE="<img src=\"https://img.shields.io/badge/Total%20Solutions-${COUNT}-8A2BE2?style=for-the-badge\" />"
 
           perl -0pi -e "s|(<!-- PROBLEM_BADGE -->)(.*?)(<!-- /PROBLEM_BADGE -->)|\${1}\n  $BADGE\n  \${3}|s" README.md
 
