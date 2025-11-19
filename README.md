@@ -22,7 +22,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
     <img src="https://img.shields.io/badge/Creator-Nazmul%20Islam-blue?style=for-the-badge" />
   </a>
   <a>
-      <img src="https://img.shields.io/badge/Total%20Folders-FOLDER_COUNT_PLACEHOLDER-1E90FF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Total%20Folders-67-1E90FF?style=for-the-badge" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Language-C++-brightgreen?style=for-the-badge" />
