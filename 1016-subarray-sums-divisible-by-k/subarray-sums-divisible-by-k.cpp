@@ -1,6 +1,6 @@
 /*
  Author:Nazmul Islam
- Using prefix sum and Hash map 
+ Using prefix sum and Hash map
  COmplexity: O(n) time & O(n) Space
 */
 class Solution {
@@ -15,13 +15,13 @@ public:
         int res = 0;
         m[0]++;
         for (int i = 0; i < n; ++i) {
-            int mod = prefixSum[i] % k;
-            if (mod < 0) {
-                mod += k;
+            int remainder = prefixSum[i] % k;
+            if (remainder < 0) { // handled nagetive remainder
+                remainder += k;
             }
-            if (m.contains(mod))
-                res += m[mod];
-            m[mod]++;
+            if (m.contains(remainder))
+                res += m[remainder];
+            m[remainder]++;
         }
         return res;
     }
